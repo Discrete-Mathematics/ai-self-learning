@@ -33,7 +33,8 @@
     1 Epoch = 11 Iteration ? drop_last = False
 
 ### 2. Dataset
-功能：Dataset抽象类，所有自定义的Dataset需要继承它，并且复写 **__getitem()**（核心）
+
+功能：Dataset抽象类，所有自定义的Dataset需要继承它，并且复写 **\_\_getitem()\_\_**（核心）
 
 ![4](pcs/4.png "4")
 
