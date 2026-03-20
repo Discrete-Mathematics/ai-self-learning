@@ -24,5 +24,4 @@
 - **项目持续更新中......**
 - 
 
->如您在阅读时有任何建议或者发现任何错误，欢迎加入读者学习交流群【462138385】反馈<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=4jPQSLz1G1ShNOTXR7PPgePXqJr9t8Dn&jump_from=webapi&authKey=CifjAKxShoeH0ANKYwk0WYTLllzx1BJqw149OtyOi3D85tcSLS9Nv7I46SuFAEUG"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="雅润万家纯学习交流群" title="雅润万家纯学习交流群"></a>  
 >如您也想一起完善此仓库，欢迎加入贡献者交流群【915270666】<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=65FC5FV_MDWqFOqmzRIILE_VNW6xYvSJ&jump_from=webapi&authKey=qsKL3EObZ5wKBezKo66aM6NbQuwa/rUr2mG+/jbwD/LJXkvmAJQbX0wnzjOqt+wK"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="AI自学指南贡献者群" title="AI自学指南贡献者群"></a>
